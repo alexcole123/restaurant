@@ -1,0 +1,20 @@
+.Branches {
+	border: 1px solid black;
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.Branches > p {
+    font-size: large;
+}
+
+.Branches > ul {
+    text-decoration: underline;
+}
+
+.Branches li {
+    color: white;
+}

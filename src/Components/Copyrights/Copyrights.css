@@ -1,0 +1,10 @@
+.Copyrights {
+    position: absolute;
+    width: 100%;
+}
+
+.Copyrights > p {
+	font-size: small;
+    text-decoration: underline;
+    color: gold;
+}
